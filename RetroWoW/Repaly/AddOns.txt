@@ -1,0 +1,2 @@
+Roid-Macros: disabled
+SuperMacro: disabled

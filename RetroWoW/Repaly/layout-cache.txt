@@ -1,0 +1,10 @@
+Frame: ChatFrame2
+FrameLevel: 4
+X: 32
+Y: -596
+W: 430
+H: 120
+Frame: TutorialFrame
+FrameLevel: 10
+X: 644
+Y: -631
